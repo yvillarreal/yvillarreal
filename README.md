@@ -4,7 +4,7 @@
     <span>
       <svg height="36" viewBox="0 0 40 40" style="vertical-align:middle"><circle cx="20" cy="20" r="20" fill="#212529"/><path d="M12 30V10h16v20z" fill="#ffc107"/></svg>
     </span>
-    d3bug3xploit | Full Stack Developer
+    Yamil Villarreal | Full Stack Developer
   </h1>
   <p>
     <b>Código claro. Soluciones efectivas.</b>
